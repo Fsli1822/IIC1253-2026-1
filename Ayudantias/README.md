@@ -1,7 +1,7 @@
 # Material complementario
 
 ## Cápsulas
-2026-2
+2026-1
 - [Cápsula Ayudanteia 04 (lógica de predicados)](https://youtu.be/CvSsvqTU-VE)
 
 2025-2
